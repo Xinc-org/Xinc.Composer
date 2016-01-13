@@ -12,11 +12,18 @@ What is Xinc
 
 Xinc is a server system to manage continous integration and monitoring.
 
+What is Xinc.Composer
+---------------------
+
+Xinc.Composer are the integrational parts of [Composer](https://getcomposer.org/) for Xinc. So it is possible to
+install/update Xinc Packages or Plugins with Composer.
+
+
 Xinc System Requirements
 ------------------------
 
 * PHP 5.5 or newer
-* composer
+* Composer
 
 Xinc Resources
 --------------
