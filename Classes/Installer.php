@@ -58,7 +58,7 @@ class Installer extends LibraryInstaller
             'Sorry the package type of this package is not supported.'
         );
     }
-    
+
     /**
      * Returns the path name for given package.
      *
@@ -78,5 +78,5 @@ class Installer extends LibraryInstaller
             );
         }
         return rtrim(str_replace('\\', '.', $namespace), '.');
-    }    
+    }
 }
