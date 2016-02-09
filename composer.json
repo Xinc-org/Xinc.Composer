@@ -6,7 +6,7 @@
     "license": "LGPL-3.0+",
     "version": "0.1.1",
     "require": {
-        "composer-plugin-api": "1.0.0",
+        "composer-plugin-api": "^1.0",
         "php": ">=5.5.0"
     },
     "autoload": {
