@@ -12,7 +12,7 @@
  * @package  Xinc.Composer
  * @author   Alexander Opitz <opitz.alexander@googlemail.com>
  * @license  http://www.gnu.org/copyleft/lgpl.html GNU LGPL 3+
- * @link     http://code.google.com/p/xinc/
+ * @link     https://github.com/Xinc-org/Xinc.Composer
  */
 
 namespace Xinc\Composer;
